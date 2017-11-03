@@ -5,3 +5,7 @@ body {
 .page-header {
 	margin-left : -50px;
 }
+
+.centered-text {
+	text-align : center;
+}
