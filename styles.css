@@ -7,12 +7,14 @@ body {
 	margin-left : -50px;
 }
 
-.jersey-img-wrapper {
-
+img {
+	display : block;
+	margin-left : auto;
+	margin-right : auto;
 }
 
 .jersey-text {
-	padding : 30px 30px;
+	padding : 30px 50px;
 }
 
 .centered-text {
@@ -21,4 +23,8 @@ body {
 
 .underlined-header {
 	text-decoration : underline;
+}
+
+li {
+	padding : 5px;
 }
