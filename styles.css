@@ -4,8 +4,13 @@
 	}
 }
 
+@media only sreen and (min-device-width : 2000px) {
+	body {
+		padding : 40px 350px;
+	}	
+}
+
 body {
-	padding : 40px 350px;
 	box-sizing : border-box;
 }
 
