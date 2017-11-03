@@ -28,3 +28,7 @@ img {
 li {
 	padding : 5px;
 }
+
+.bold {
+	font-weight : 600;
+}
